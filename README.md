@@ -1,7 +1,7 @@
 # PServerUIPE
 Server ui for english users
 
-HoHow to use:
+How to use:
 
 commands: /sv
 
