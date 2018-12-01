@@ -1,5 +1,5 @@
 <?php
-namespace PSPUI\pbol377;
+namespace pserverui\pbol377;
 
 use pocketmine\event\Listener;
 use pocketmine\command\Command;
